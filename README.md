@@ -9,7 +9,6 @@
 ### 🛠️ Tech Stack
 - Microsoft Azure Data Studio  
 - SQL Server  
-- Metabase (for visualization)
 
 ---
 
@@ -28,7 +27,7 @@
 - Designed a normalized relational database.  
 - Inserted 50+ rows of realistic dummy data.  
 - Wrote 25 business-focused SQL queries.  
-- Connected database to Metabase for BI dashboard.
+
 
 ---
 
